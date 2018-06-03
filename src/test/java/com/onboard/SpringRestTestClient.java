@@ -30,7 +30,7 @@ public class SpringRestTestClient {
 		
 	}
 	
-	/* GET */
+	/* GET *  /
 	private static void getUser(){
 		System.out.println("Testing getUser API----------");
 		RestTemplate restTemplate = new RestTemplate();
