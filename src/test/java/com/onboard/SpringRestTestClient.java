@@ -25,7 +25,7 @@ public class SpringRestTestClient {
 	            System.out.println("User : id="+map.get("id")+", Name="+map.get("name")+", Age="+map.get("age")+", Salary="+map.get("salary"));;
 	        }
 		}else{
-			System.out.println("No user exist----------");
+			System.out.println("No user exist------------");
 		}
 	}
 	
