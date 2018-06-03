@@ -27,6 +27,7 @@ public class SpringRestTestClient {
 		}else{
 			System.out.println("No user exist------------");
 		}
+		
 	}
 	
 	/* GET */
